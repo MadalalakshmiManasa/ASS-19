@@ -1,0 +1,33 @@
+h1{
+    background-color: palevioletred;
+    text-align: center;
+}
+.img1{
+    background-color: rgb(11, 144, 184);
+}
+.img2{
+    background-color: wheat;
+}
+.img3{
+    background-color: rgb(223, 113, 24);
+}
+ol{
+    background-color:violet; 
+    text-align: center;
+}
+.spaan{
+    background-color: rgb(23, 151, 180);
+}
+.span2{
+    background-color: rgb(193, 172, 214);
+}
+p{
+    background-color: black;
+}
+table{
+    background-color: rgb(209, 171, 122);
+    text-align: center;
+}
+.th1{
+    background-color: rgb(19, 12, 119);
+}
